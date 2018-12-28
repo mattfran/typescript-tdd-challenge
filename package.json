@@ -1,0 +1,25 @@
+{
+  "name": "javascript-tdd-challenge",
+  "version": "1.0.0",
+  "description": "A JavaScript coding challenge focused on Test Driven Development.",
+  "main": "src/classroom.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattfran/javascript-tdd-challenge.git"
+  },
+  "author": "Matt Francois <info@mattfrancois.com>",
+  "bugs": {
+    "url": "https://github.com/mattfran/javascript-tdd-challenge/issues"
+  },
+  "homepage": "https://github.com/mattfran/javascript-tdd-challenge#readme"
+}
